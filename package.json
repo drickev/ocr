@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.3",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.15.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "sharp": "^0.33.4"
+  }
+}
